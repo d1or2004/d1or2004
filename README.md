@@ -12,7 +12,7 @@
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
-  <a href="https://t.me/ahmedov_xcdm">
+  <a href="https://t.me/mee_dior">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.instagram.com/tohirbek.xcdm">
