@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/_d1_or">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/diyorbek-axmadjonov-4113a9338/)">
+  <a href="https://www.linkedin.com/in/diyorbek-axmadjonov-4113a9338/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:diyorbekaxmadjonov98@gmail.com">
