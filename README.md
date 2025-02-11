@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="name.svg" alt="Tohirbek Ahmedov" />
+  <img src="name.svg" alt="Axmadjonov DIyorbek" />
 </h1>
 <br/>
 
